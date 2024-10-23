@@ -2,7 +2,8 @@
 A graphical tool to visualize Mandelbrot and Julia sets.
 
 ## Why?
-I wanted to code something *kinda* on my own in C, so I want to try and program the Mandelbrot and Julia Sets.
+I wanted to code something *kinda* on my own in C, so I want to try and program the Mandelbrot and Julia Sets in a graphical interface.
+I also want to try and use the OpenGL libraries for this one.
 
 ## Reading materials:
 https://www.webpages.uidaho.edu/~stevel/565/literature/Unveiling%20the%20Mandelbrot%20Set.pdf
